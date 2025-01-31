@@ -1,0 +1,57 @@
+import "stdio.h";
+program MyProgram 
+const {
+    -- int MyConstant = 10; 
+        bool myBooll = true;
+}
+var {
+    int myVar = 24;
+    float myFloat;
+    bool myBool = true;
+    char myChar = "a";
+    string myString = "amiiiiiii";
+}
+types {
+    Object MyObject {
+        int x;
+        float y = 3.14;
+    }
+    int array[ 10 ];
+}
+functions {
+    void function test (int : a,  string : b){
+    print("i am here ");
+    int k = 4 ;
+    if (myVar > 5 AND 4 + (3+5) == 4) {
+        print("Var is greater than 5");
+    } else {
+        print("Var is less than or equal to 5");
+    }
+    print("kjsehfehjw :", result);
+
+    for (i = 0,10, 5) {
+        print(i);
+    }
+    while (myVar < 10) {
+        myVar = myVar + 1;
+        print(myVar);
+    }
+    }
+}
+main {
+    x = test(y);
+    test(3,4);
+    tab[5]= "test" ;
+    myv = tab[5];
+    myChar = "A";
+    myString = "Hello, world!";
+    scan(myVar);
+    result = 10 % 4.5;
+    print(result);
+    if (myVar > 5 AND 4 + (3+5) == 4 OR Obj.active) {
+        print("Var is greater than 5");
+    } else { obj.name = "jj";
+        print("Var is less than or equal to 5"); }
+    print("kjsehfehjw :", result);
+    for (i = 0,10, 5) {print(i);}
+}

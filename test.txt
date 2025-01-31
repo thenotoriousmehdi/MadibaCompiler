@@ -1,0 +1,32 @@
+import "stdio.h";
+program MyProgram 
+const {
+    -- int MyConstant = 10; 
+        bool myBooll = true;
+}
+var {
+    int myVar = 24;
+    bool myBool = true;
+    char myChar = "a";
+    string myString = "amiiiiiii";
+    int i = 0 ; 
+    string result ; 
+}
+main {
+    
+    myString = "Hello, world!";
+     i =  "euryueyr" ;
+    if (myVar > 6) {
+        print("test ");
+         if ( myVar <= 30) {
+            while (  i == 12) {
+                print("TPRO"); 
+            }
+         }else {
+            print("COMPILE "); 
+         }
+    } else { myString = "jj";
+        print("Var is less than or equal to 5"); }
+    print("THP1 :", result);
+        for (i = 0,10, 5) {print(i);}
+}

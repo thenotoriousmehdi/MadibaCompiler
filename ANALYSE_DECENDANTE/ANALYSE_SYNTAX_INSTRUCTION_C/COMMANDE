@@ -1,0 +1,2 @@
+flex des.l
+gcc -o tx lex.yy.c tableau.h  -lm
