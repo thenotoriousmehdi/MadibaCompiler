@@ -5,17 +5,6 @@
 
 A mini-compiler implementing lexical, syntactic, and semantic analysis phases for a custom-defined programming language. Built using **Flex** (lexical analysis) and **Bison** (syntax/semantic analysis), with intermediate code generation via quadruples.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Language Features](#language-features)
-- [Compiler Structure](#compiler-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Error Handling](#error-handling)
-- [Deliverables Timeline](#deliverables-timeline)
-- [Contributors](#contributors)
-- [License](#license)
-
 ---
 
 ## Project Overview
@@ -39,4 +28,3 @@ The custom language includes:
   - Priorities and associativity rules (e.g., `*` over `+`).
 - **Control Flow**: `if-else`, `while` loops, and basic I/O instructions.
 
-## Compiler Structure
